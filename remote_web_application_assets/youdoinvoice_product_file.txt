@@ -1,0 +1,14 @@
+PRODUTO|4
+A|1.02
+I|123|Produto teste 1||01061100||||||||
+M|0|1
+N|40||||||||||||
+A|1.02
+I|123A|Produto teste 2||01061100||||||||
+M|0|0
+A|1.02
+I|123B|Produto teste 3||||||||||
+M|0|0
+A|1.02
+I|123C|Produto teste 4||||||||||
+M|0|0
