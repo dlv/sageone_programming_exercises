@@ -25,4 +25,4 @@ Construindo a aplicação
 * Habilitar o Mod Rewrite
 * Adicionar alisa para sageone no arquivos hosts
 * Reiniciar o apache
-* Configurar o hostaname da máquina
+* Configurar o hostname da máquina
