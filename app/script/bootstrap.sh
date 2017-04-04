@@ -59,7 +59,7 @@ sudo service apache2 restart
 
 # Hostname
 #echo "Setting hostname..."
-#sudo hostname "sageone"
+sudo hostname $HOSTNAME
 
 ##### CLEAN UP #####
 sudo dpkg --configure -a # when upgrade or install doesn't run well (e.g. loss of connection) this may resolve quite a few issues
